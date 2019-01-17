@@ -6,5 +6,6 @@ public class awm {
 	{
 	
 	System.out.println("Github");
+	System.out.println("Github");
 
 }}

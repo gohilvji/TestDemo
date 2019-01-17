@@ -2,7 +2,7 @@ package awm;
 
 public class awm {
 	
-	public void test()
+	public void main()
 	{
 	
 	System.out.println("Github");
